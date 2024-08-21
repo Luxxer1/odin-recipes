@@ -21,3 +21,12 @@ a {
   color: darkred;
   font-weight: bold;
 }
+
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+.recipe-list {
+  list-style: none;
+}
